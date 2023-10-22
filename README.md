@@ -1,18 +1,12 @@
 ### Hi 👋
 
-I'm Elizaveta Semenova, a researcher 👩‍💻 in applied Bayesian machine learning at Computer Science Department, University of Oxford.
+I'm Elizaveta Semenova, a researcher 👩‍💻 in applied Bayesian machine learning at Computer Science Department, University of Oxford. My interests include but are not limited to Bayesian inference, spatial statistics, deep generative models, epidemiology.
 
 ## About Me
 - 🌐 Website: [here](https://www.elizaveta-semenova.com/)
 - 📑 Google Scholar: [here](https://scholar.google.com/citations?user=jqGIgFEAAAAJ&hl=en)
 - 📚 LinkedIn: [here](https://www.linkedin.com/in/elizaveta-semenova/)
 
-## Interests
-
-- Bayesian inference
-- Spatial statistics
-- Deep generative models
-- Epidemiology
 
 <!--
 **elizavetasemenova/elizavetasemenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
