@@ -1,9 +1,9 @@
 ### Hi 👋
 
-I'm Elizaveta Semenova, a researcher 👩‍💻 in applied Bayesian machine learning at Computer Science Department, University of Oxford
+I'm Elizaveta Semenova, a researcher 👩‍💻 in applied Bayesian machine learning at Computer Science Department, University of Oxford.
 
 ## About Me
-- 🌐 Website: [https://www.elizaveta-semenova.com/](https://www.elizaveta-semenova.com/)
+- 🌐 Website: [here](https://www.elizaveta-semenova.com/)
 - 📑 Google Scholar: [here](https://scholar.google.com/citations?user=jqGIgFEAAAAJ&hl=en)
 - 📚 LinkedIn: [here](https://www.linkedin.com/in/elizaveta-semenova/)
 
