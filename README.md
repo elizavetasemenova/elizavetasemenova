@@ -1,10 +1,8 @@
-### Elizaveta Semenova 👋
+### Hi 👋
 
-Welcome to my GitHub profile! I'm Elizaveta Semenova, a computer science enthusiast from Oxford, passionate about coding, open source, and technology.
+I'm Elizaveta Semenova, a researcher 👩‍💻 in applied Bayesian machine learning at Computer Science Department, University of Oxford
 
 ## About Me
-
-- 👩‍💻 Research in applied Bayesian machine learning at Computer Science Department, University of Oxford
 - 🌐 Website: [https://www.elizaveta-semenova.com/](https://www.elizaveta-semenova.com/)
 - 📑 Google Scholar: [here](https://scholar.google.com/citations?user=jqGIgFEAAAAJ&hl=en)
 - 📚 LinkedIn: [here](https://www.linkedin.com/in/elizaveta-semenova/)
