@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Elizaveta Semenova, a researcher 👩‍💻 in applied Bayesian machine learning at Computer Science Department, University of Oxford. My interests include but are not limited to Bayesian inference, spatial statistics, deep generative models, epidemiology.
+I'm Elizaveta (Liza) Semenova, a Lecturer (Assistant Professor) 👩‍💻 in Biostatiatics, Computational Epidemiology and Machine Learning at Imperial College London. My research interests include but are not limited to Bayesian inference, spatial statistics, deep generative models and epidemiology.
 
 ## About Me
 - 🌐 Website: [here](https://www.elizaveta-semenova.com/)
